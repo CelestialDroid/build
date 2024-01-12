@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     DeskClock \
     ExactCalculator \
     Gallery2 \
+    GameSpace \
     LatinIME \
     Music \
     PdfViewer \
